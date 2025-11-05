@@ -1,0 +1,6 @@
+The 5 steps of Data analysis Processing 
+1. Asking questions
+2. Data Wrangling --- Gathering , Assessing data , clean
+3. EDA
+4.Conclusion
+5.Presentation
